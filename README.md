@@ -2,7 +2,7 @@
 
 #View Pager Error
 
-android/settings.gradle
+In android/settings.gradle
 
 paste this:
 
